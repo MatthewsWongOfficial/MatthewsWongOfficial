@@ -47,6 +47,11 @@
 
 ###
 
+<h3 align="center">Website Portfolio: [https://matthewswong.vercel.app/](https://matthewswong.vercel.app/)</h3>
+
+
+###
+
 <div align="left">
   <a href="https://instagram.com/matthewswong_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -67,12 +72,6 @@
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MatthewsWongOfficial/MatthewsWongOfficial/output/snake.svg" alt="Snake animation" />
 
 ###
 
