@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Matthews Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/MatthewsWongOfficial/github-readme-stats)
+![Matthews Wong's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatthewsWongOfficial&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
