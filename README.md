@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="[URL_TO_YOUR_IMAGE](https://github.com/MatthewsWongOfficial/MatthewsWongOfficial/blob/main/Banner-Github.png)" alt="Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Matthews Wong</h1>
+<h3 align="center">IT Student at Swiss German University</h3>
 <h1 align="center">Hi 👋, I'm Matthews Wong</h1>
 <h3 align="center">IT Student at Swiss German University</h3>
 
